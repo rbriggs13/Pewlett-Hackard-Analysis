@@ -14,5 +14,7 @@ FROM retirement_info;
 ```
 This query tells us that there are 41,380 roles that need to be filled. 
 The following table shows the amount of employees that are retiring in each role.
+
 ![retirement_table](https://user-images.githubusercontent.com/87343629/136822914-2faa0e33-eb29-4cdf-8ab1-9eaa7afff69c.png)
+
 As this table shows there are more than enough senior staff and engineers to mentor the next generation of employees.
