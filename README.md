@@ -6,7 +6,7 @@ The purpose of this analysis is to provide advice and preparation for the upcomi
 - Managers are missing from the marketing, finance, development, and quality management departments.
 - There are two managers retiring, but there are over 1,500 people that could be mentored to replace them.
 - Senior engineers are the title that need the most people to replace those retiring at nearly 30,000.
-##Summary
+## Summary
 The following query returns how many employees are retiring indicating how many positions will need to be filled
 ```
 SELECT COUNT (emp_no)
